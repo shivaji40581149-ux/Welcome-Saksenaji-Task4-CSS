@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+
+.Hello{
+    width: 40vw;
+    border: 0.3vh solid black;
+    margin: 10vh auto;
+}
+
+.Hello img{
+    width: 100%;
+    display: block;
+}
+
+.button{
+    width: 100%;
+    font-size: 5vh;
+    padding: 2vh;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+    background: linear-gradient(300deg,
+    rgba(64,214,107,1) 0%,
+    rgba(253,187,45,1) 100%);
+}
